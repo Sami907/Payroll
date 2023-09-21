@@ -1,0 +1,6 @@
+D:\Project\Visual Studio Projects\Payroll\PMS Library\PayrollMSLibrary\bin\Debug\PayrollMSLibrary.dll
+D:\Project\Visual Studio Projects\Payroll\PMS Library\PayrollMSLibrary\bin\Debug\PayrollMSLibrary.pdb
+D:\Project\Visual Studio Projects\Payroll\PMS Library\PayrollMSLibrary\obj\Debug\PayrollMSLibrary.csproj.AssemblyReference.cache
+D:\Project\Visual Studio Projects\Payroll\PMS Library\PayrollMSLibrary\obj\Debug\PayrollMSLibrary.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Projects\Payroll\PMS Library\PayrollMSLibrary\obj\Debug\PayrollMSLibrary.dll
+D:\Project\Visual Studio Projects\Payroll\PMS Library\PayrollMSLibrary\obj\Debug\PayrollMSLibrary.pdb

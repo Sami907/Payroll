@@ -1,0 +1,17 @@
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.csproj.AssemblyReference.cache
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.csproj.SuggestedBindingRedirects.cache
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.frmCompanySetup.resources
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.Forms.frmLogin.resources
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.Forms.frmMain.resources
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.frmUsers.resources
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.Properties.Resources.resources
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.csproj.GenerateResource.cache
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\bin\Debug\PayrollMS.exe.config
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\bin\Debug\PayrollMS.exe
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\bin\Debug\PayrollMS.pdb
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\bin\Debug\PayrollMSLibrary.dll
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\bin\Debug\PayrollMSLibrary.pdb
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.csproj.CopyComplete
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.exe
+D:\Project\Visual Studio Projects\Payroll\PayrollMS\PayrollMS\obj\Debug\PayrollMS.pdb
